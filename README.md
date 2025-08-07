@@ -1,3 +1,4 @@
 # New Project
 
-This project for creating for local system.
+This project was created from local syatem.
+Created by Chaitali Autade.
